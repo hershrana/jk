@@ -8,6 +8,7 @@ public class JkApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JkApplication.class, args);
+		System.out.println("op");
 	}
 
 }
